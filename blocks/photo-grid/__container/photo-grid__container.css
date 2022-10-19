@@ -1,5 +1,5 @@
 .photo-grid__container {
-    max-width: calc(284px * 4 + 16px * 3); 
+    max-width: calc(284px * 4 + 16px * 3);
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(4, 284px);

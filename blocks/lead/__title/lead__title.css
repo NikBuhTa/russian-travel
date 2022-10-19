@@ -8,7 +8,6 @@
     line-height: 100px;
     color: white;
     text-align: center;
-    max-width:min-content;
 }
 
 @media (max-width: 768px) and (min-width: 320px) {
