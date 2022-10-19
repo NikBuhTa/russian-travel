@@ -1,0 +1,26 @@
+.footer__link {
+    margin: 0 18px 0 0;
+    color: white;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.footer__link:nth-last-child(1) {
+    margin: 0;
+}
+
+@media (max-width: 768px) and (min-width: 320px) {
+    .footer__link {
+        font-size: 24px;
+        line-height: 24px;
+        margin: 0 0 32px;
+    }
+
+    .footer__link:nth-last-child(1) {
+        margin: 0 0 32px;
+    }
+}
