@@ -1,0 +1,8 @@
+.header__item {
+    margin: 0;
+    margin-right: 18px;
+}
+
+.header__item:nth-last-child(1) {
+    margin-right: 0;
+}

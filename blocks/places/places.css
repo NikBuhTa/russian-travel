@@ -1,19 +1,18 @@
 .places {
-    min-height: 400px;
-    margin: 0;
+    margin: 0 auto;
     padding: 92px 0 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
-@media (max-width: 1024px) and (min-width: 768px) {
+@media (max-width: 1023.98px) {
     .places {
         padding-top: 88px;
     }
 }
 
-@media (max-width: 768px) and (min-width: 320px) {
+@media (max-width: 767.98px) {
     .places {
         padding-top: 64px;
     }
