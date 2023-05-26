@@ -1,10 +1,13 @@
 # Проект: Путешествие по России
 
-## Описание проекта:
-Это выполненный проект третьей практической работы, отличие которого от остальных,  
-в адаптивности, т.е. разном поведении элементов при разных значениях ширины экрана.  
+## <img src='https://www.svgrepo.com/show/450797/description.svg' height=40px weight=40px> Описание
+> Одностраничный сайт, который рассказывает о путешествии по России.
 
-[Ссылка на проект](https://nikbuhta.github.io/russian-travel/)
+## <img src='https://www.svgrepo.com/show/512428/list-1510.svg' height=40px weight=40px> Стек технологий
+- JS
+- HTML5, CSS3
+- Adaptive Design
 
-## Планы по доработке:
-Дополнить проект еще одним медиа-запросом на 425px.
+## <img  src='https://www.svgrepo.com/show/511148/square-check.svg' height=40px weight=40px> Статус проекта
+На текущий момент сайт является законченным проектом.
+Ссылка на проект => [тут](https://nikbuhta.github.io/russian-travel/)
